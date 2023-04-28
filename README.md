@@ -93,13 +93,15 @@ int main(void)
 
 ## Output screen shots of proteus  :
 When switch in Off state:
- ![exp 3 output1](https://user-images.githubusercontent.com/119390227/234191544-fa5daf7e-e3fa-44e8-ba45-bba94739247e.png)
+ ![exp 3 4](https://user-images.githubusercontent.com/119390227/235098221-88f234ec-38b9-48ea-9646-9dde84fc6209.jpg)
+ 
  When switch in On state:
-![output 2](https://user-images.githubusercontent.com/119390227/234191591-48435956-9cad-4c25-abaa-0f72313dbd65.png)
+![3on](https://user-images.githubusercontent.com/119390227/235099212-a08ee79f-35a9-41fe-b143-75d97cc09f03.jpg)
 
- 
- 
- 
+## circuit Diagram:
+
+ ![circuit digrm](https://user-images.githubusercontent.com/119390227/235099289-e2d43a1e-64dc-495c-a23d-708686880b95.jpg)
+
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
