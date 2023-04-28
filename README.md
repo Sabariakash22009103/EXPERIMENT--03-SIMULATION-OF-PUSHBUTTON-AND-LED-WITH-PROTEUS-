@@ -99,8 +99,7 @@ When switch in Off state:
 ![3on](https://user-images.githubusercontent.com/119390227/235099212-a08ee79f-35a9-41fe-b143-75d97cc09f03.jpg)
 
 ## circuit Diagram:
-
- ![circuit digrm](https://user-images.githubusercontent.com/119390227/235099289-e2d43a1e-64dc-495c-a23d-708686880b95.jpg)
+![circuit digrm](https://user-images.githubusercontent.com/119390227/235099289-e2d43a1e-64dc-495c-a23d-708686880b95.jpg)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
